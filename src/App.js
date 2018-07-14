@@ -11,6 +11,11 @@ class App extends Component {
         parentId: null,
       },
       {
+        id: '2_2',
+        title: 'Элемент 2 2',
+        parentId: '2',
+      },
+      {
         id: '2',
         title: 'Элемент 2',
         parentId: null,
